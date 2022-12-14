@@ -1,2 +1,3 @@
 # Stock-Sentiment-Analysis-using-News-Headlines
 This project shows the effect of emotion classification of financial news to the prediction of stock market prices.
+Stock market data analysis can be understood in a better way with the help of artificial intelligence and data mining techniques. The volatility of stock prices depends on gains or losses of certain companies. News articles are one of the most important factors which influence the stock market. This project basically shows the effect of emotion classification of financial news to the prediction of stock market prices. The application of this project is to predict the sentiment of the stock price whether the News will have a positive impact or a negative impact on the stock price.
